@@ -3,7 +3,7 @@ https://forums.alliedmods.net/showthread.php?t=336242
 
 ### Modify Knife Damage + Cooldown From Stabbing T's
 
-![alt text](https://github.com/oqyh/Game_Manager/blob/main/images/hud%20postions.png?raw=true)
+![alt text](https://github.com/oqyh/HNS-Anti-Frag/blob/main/img/Screenshot.PNG.jpg?raw=true)
 
 
 ## .:[ ConVars ]:.
