@@ -1,4 +1,4 @@
-# [HNS] Anti Frag
+# [HNS] Anti Frag (1.0.0)
 https://forums.alliedmods.net/showthread.php?t=336242
 
 ### Modify Knife Damage + Cooldown From Stabbing T's
