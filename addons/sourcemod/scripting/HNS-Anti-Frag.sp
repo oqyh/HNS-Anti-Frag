@@ -28,11 +28,11 @@ bool RoundEnd;
 bool h_benable_plugin = false;
 bool g_btransparent = false;
 bool g_bLateLoaded = false;
+
 float h_fknife_damage;
 float h_bcooldown;
 
 int GetHealth[MAXPLAYERS + 1];
-
 int g_bctransparent;
 int g_bcbodyR;
 int g_bcbodyG;
@@ -199,6 +199,8 @@ public void OnClientPutInServer(int client)
 
 public void OnClientDisconnect(int client)
 {
+	GetHealth[client] =0;
+	
 	SetEntityRenderMode(client, RENDER_NORMAL);
 	SetEntityRenderColor(client, 255, 255, 255, 255);
 	
