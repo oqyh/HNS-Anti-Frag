@@ -1,4 +1,4 @@
-# [CSGO/HNS] Anti Frag (1.0.1)
+# [CSGO/HNS] Anti Frag (1.0.2)
 https://forums.alliedmods.net/showthread.php?t=340791
 
 ### Modify Knife Damage + Cooldown From Stabbing T's
@@ -69,6 +69,11 @@ hns_f_notify_annoc "0"
 
 ## .:[ Change Log ]:.
 ```
+(1.0.2)
+-Fix Bug
+-Fix OnClientDisconnect Error
+-Fix Knife stab
+
 (1.0.1)
 -Fix Bug
 -Fix God Mode Carry To Next Round After Death/Reconnect
