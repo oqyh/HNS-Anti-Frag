@@ -1,19 +1,22 @@
-# [CSGO/HNS] Anti Frag (1.0.2)
+# [CSGO-CSS] HNS Anti Frag (1.0.3)
 https://forums.alliedmods.net/showthread.php?t=340791
 
 ### Modify Knife Damage + Cooldown From Stabbing T's
 
 ![alt text](https://github.com/oqyh/HNS-Anti-Frag/blob/main/img/Screenshot.PNG.jpg?raw=true)
+![CSS](https://github.com/oqyh/HNS-Anti-Frag/assets/48490385/44ce05bf-b79f-4ea5-bcf2-7854fe12cc3a)
 
 
 ## .:[ ConVars ]:.
  ```
+//=========================[ Enable/Disable Plugin ]====================================================
+
 //## Enable Anti-Frag Plugin
 //## 1= Yes
 //## 0= No
 hns_f_enable_plugin "1"
 
-//==========================================================================================
+//===============================[ Settings ]===========================================================
 
 //## How Would You Like Cooldown Will Be For Attacker (CT)
 //## 2= Give Attacker (CT) Cooldown From Stabbing To All T's
@@ -28,7 +31,7 @@ hns_f_knife_cooldown "5.0"
 //## Default: 50 HP
 hns_f_knife_damage "50.0"
 
-//==========================================================================================
+//===============================[ Misc ]===========================================================
 
 //## Enable Transparent After Damage
 //## 1= Yes
@@ -50,7 +53,7 @@ hns_f_color_g "0"
 //## Body Blue Code Color  Pick Here https://www.rapidtables.com/web/color/RGB_Color.html
 hns_f_color_b "0"
 
-//==========================================================================================
+//=======================[ Messages / Chat ]======================================================
 
 //## Enable Notification Message Chat After Damage For
 //## 3= Both Attacker (CT) And Victim (T)
@@ -61,14 +64,22 @@ hns_f_notify "1"
 
 //## Do You Like The Notification Message To Be Announced To All Players About Who Got Stabbed+Killed
 //## 2= Yes With Hp Left
-//## 1= Yes
+//## 1= Yes Without Hp Left
 //## 0= No Disable Announcer
 hns_f_notify_annoc "0"
+
+//===============================================================================================
 ```
 
 
 ## .:[ Change Log ]:.
 ```
+(1.0.3)
+-Fix Bug
+-Fix OnClientDisconnect SDKUnhook
+-Fix Knife Damage [CSGO/CSS]
+-Added Plugin Work On CS:GO CS:S
+
 (1.0.2)
 -Fix Bug
 -Fix OnClientDisconnect Error
