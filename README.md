@@ -4,7 +4,8 @@ https://forums.alliedmods.net/showthread.php?t=340791
 ### Modify Knife Damage + Cooldown From Stabbing T's
 
 ![alt text](https://github.com/oqyh/HNS-Anti-Frag/blob/main/img/Screenshot.PNG.jpg?raw=true)
-![CSS](https://github.com/oqyh/HNS-Anti-Frag/assets/48490385/44ce05bf-b79f-4ea5-bcf2-7854fe12cc3a)
+
+![alt text](https://github.com/oqyh/HNS-Anti-Frag/blob/main/img/CSS.png?raw=true)
 
 
 ## .:[ ConVars ]:.
