@@ -5,7 +5,7 @@ https://forums.alliedmods.net/showthread.php?t=340791
 
 ![alt text](https://github.com/oqyh/HNS-Anti-Frag/blob/main/img/Screenshot.PNG.jpg?raw=true)
 
-![alt text](https://github.com/oqyh/HNS-Anti-Frag/blob/main/img/CSS.png?raw=true)
+![alt text](https://github.com/oqyh/HNS-Anti-Frag/blob/main/img/CSS.jpg?raw=true)
 
 
 ## .:[ ConVars ]:.
